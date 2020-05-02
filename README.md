@@ -24,7 +24,6 @@ Rode ```npm start``` nas pastas backend e frontend para utilizar a versão web. 
 
 Rode ```npm start``` nas pastas backend e mobile, acesse **localhost:19002**, leia o QR Code no seu celular e utilize o aplicativo Expo para rodar a versão mobile no seu smartphone. Ou com algum emulador Android/iOS para rodar no seu computador.
 
-## Motivo por não ter colocado o Mobile no mesmo repositorio dos arquivos Web
 
 
 <h1 align="center"><img src="IMG/logo.png" alt="logo be the hero"/>
